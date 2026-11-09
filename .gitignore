@@ -1,0 +1,41 @@
+# ---- Build output
+*.apk
+*.aab
+*.ap_
+*.dex
+bin/
+gen/
+out/
+build/
+/dist/
+.gradle/
+.gradle-user*
+.android-user/
+.kotlin/
+
+# ---- Local machine config
+local.properties
+*.iml
+.idea*
+.vscode*
+!.idea/codeStyles/
+!.idea/runConfigurations/
+.DS_Store
+Thumbs.db
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ---- SECRETS: never commit these
+keystore.properties
+*.jks
+*.keystore
+google-services.json
+*.pem
+.env
+.env.*
+secrets.properties
+
+# ---- Logs / misc
+*.log
+hs_err_pid*

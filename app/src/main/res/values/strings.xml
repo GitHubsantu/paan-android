@@ -1,0 +1,271 @@
+<resources>
+    <!-- Language -->
+    <string name="language_title">Choose your language</string>
+    <string name="language_subtitle">You can change this anytime from your profile.</string>
+    <string name="language_english">English</string>
+    <string name="language_bengali">বাংলা</string>
+    <string name="language_odia">ଓଡ଼ିଆ</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_language_subtitle">Choose English, Bengali or Odia</string>
+    <!-- Registration -->
+    <string name="registration_title">What should we call you?</string>
+    <string name="registration_subtitle">Add your name to complete registration.</string>
+    <string name="registration_name_label">Your name</string>
+    <string name="registration_continue">Continue</string>
+    <!-- Common -->
+    <string name="app_name" translatable="false">Chutur Paan</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_ok">OK</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_logout">Logout</string>
+    <string name="common_back">Back</string>
+    <string name="common_save">Save</string>
+    <string name="common_saving">Saving…</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_change">Change</string>
+    <string name="common_guest">Guest</string>
+    <string name="common_something_went_wrong">Something went wrong</string>
+
+    <!-- Statuses -->
+    <string name="order_status_received">Order Received</string>
+    <string name="order_status_preparing">Being Prepared</string>
+    <string name="order_status_ready">Ready for Pickup</string>
+    <string name="order_status_completed">Completed</string>
+    <string name="order_status_cancelled_by_shop">Cancelled by Shop</string>
+    <string name="payment_status_paid">Paid</string>
+    <string name="payment_status_pending">Payment Pending</string>
+    <string name="payment_status_failed">Payment Failed</string>
+    <string name="payment_status_refunded">Refunded</string>
+
+    <!-- Validation and errors -->
+    <string name="error_enter_mobile">Please enter your mobile number</string>
+    <string name="error_invalid_mobile">Enter a valid 10-digit Indian mobile number</string>
+    <string name="error_send_otp">Could not send OTP</string>
+    <string name="error_invalid_otp">Invalid OTP. Please try again.</string>
+    <string name="error_name_short">Enter at least 2 characters</string>
+    <string name="error_name_long">Name is too long</string>
+    <string name="error_product_not_found">Product not found</string>
+    <string name="error_place_order">We couldn’t place your order. Please try again.</string>
+    <string name="error_payment_failed">Payment failed. No money was taken. Please try again.</string>
+    <string name="error_shop_closed">The shop is closed right now. Your tray is saved. Please try again when we open.</string>
+
+    <!-- Relative time -->
+    <string name="time_just_now">Just now</string>
+    <string name="time_yesterday">Yesterday</string>
+    <plurals name="time_minutes_ago"><item quantity="one">%1$d min ago</item><item quantity="other">%1$d min ago</item></plurals>
+    <plurals name="time_hours_ago"><item quantity="one">%1$d h ago</item><item quantity="other">%1$d h ago</item></plurals>
+    <plurals name="items"><item quantity="one">%1$d item</item><item quantity="other">%1$d items</item></plurals>
+    <plurals name="paans"><item quantity="one">%1$d paan</item><item quantity="other">%1$d paans</item></plurals>
+    <plurals name="active_orders"><item quantity="one">%1$d Active</item><item quantity="other">%1$d Active</item></plurals>
+    <plurals name="new_notifications"><item quantity="one">%1$d new notification</item><item quantity="other">%1$d new notifications</item></plurals>
+
+    <!-- Notifications -->
+    <string name="notification_channel_ready_name">Order ready</string>
+    <string name="notification_channel_ready_description">Tells you when your order is ready for pickup</string>
+    <string name="notification_channel_updates_name">Order updates</string>
+    <string name="notification_channel_updates_description">Other updates about your order</string>
+    <string name="push_fallback_title">Order update</string>
+
+    <!-- Product options -->
+    <string name="option_regular_sweet">Regular Sweet</string>
+    <string name="option_mild_sweet">Mild Sweet</string>
+    <string name="option_low_gulkand">Low Gulkand</string>
+    <string name="option_extra_gulkand">Extra Gulkand</string>
+    <string name="option_fried_supari">Fried Supari</string>
+    <string name="option_kacha_supari">Kacha Supari</string>
+    <string name="option_classic_recipe">Classic Recipe</string>
+    <string name="option_crunchy_roasted">Crunchy, roasted</string>
+    <string name="option_raw_traditional">Raw, traditional</string>
+    <string name="option_summary">%1$s • %2$s</string>
+
+    <!-- Shared UI -->
+    <string name="common_add">Add</string><string name="common_edit">Edit</string><string name="common_allow">Allow</string><string name="common_not_now">Not now</string><string name="common_total">Total</string>
+    <string name="common_order_summary">Order Summary</string><string name="common_quantity">Quantity</string><string name="common_view_details">View Details</string><string name="common_back_to_home">Back to Home</string>
+    <string name="a11y_back">Back</string><string name="a11y_delete">Delete</string>
+
+    <!-- Login and OTP -->
+    <string name="login_mobile_number">Mobile number</string><string name="login_mobile_placeholder">Enter 10-digit mobile number</string><string name="login_country_prefix" translatable="false">+91  </string>
+    <string name="otp_verify_number">Verify Number</string><string name="otp_resend_sms">Resend OTP via SMS</string><string name="otp_phone">+91 %1$s</string>
+
+    <!-- Cart and checkout -->
+    <string name="cart_title">Your Order Summary</string><string name="cart_pickup_only">Shop Pickup Only</string><string name="cart_add_more_types">Add More Paan Types</string><string name="cart_express_pickup">Express Counter Pickup</string>
+    <string name="cart_note_title">Add a Note for Paan Master</string><string name="cart_optional">(Optional)</string><string name="cart_note_placeholder">e.g. Make the sweet paan less sweet</string>
+    <string name="cart_bill_details">Bill Details</string><string name="cart_total_amount">Total Amount</string><string name="cart_pickup_counter">Pickup at the counter</string>
+    <string name="checkout_title">Checkout</string><string name="checkout_processing">Processing payment…</string><string name="checkout_item_line">%1$d × %2$s</string>
+
+    <!-- Home and products -->
+    <string name="home_welcome">Welcome 👋</string><string name="home_search_placeholder">Search paan</string><string name="home_fresh_rolled">Fresh Rolled Delicacies</string>
+    <string name="home_active_order">Active order • %1$s</string><string name="home_track">Track</string><string name="home_closed_now">We’re closed right now</string><string name="home_usually_open">Usually open %1$s</string><string name="home_menu_load_error">Couldn’t load the menu</string>
+    <string name="product_per_piece">per piece</string><string name="product_unavailable">Currently unavailable</string><string name="product_experience">The Experience</string><string name="product_heritage">Heritage Elements</string><string name="product_made_fresh">Made Fresh Upon Ordering</string><string name="product_add_more">Add More</string>
+
+    <!-- Orders -->
+    <string name="orders_title">My Orders</string><string name="orders_placed">Order Placed!</string><string name="orders_pickup_token">PICKUP TOKEN</string><string name="orders_your_note">Your note</string><string name="orders_live_status">Live order status</string><string name="orders_call_shop">Call Shop Counter</string>
+    <string name="orders_counter_pass">COUNTER COLLECTION PASS</string><string name="orders_token">TOKEN #%1$02d</string><string name="orders_payment_status">Payment Status</string><string name="orders_preparation_journey">Preparation Journey</string><string name="orders_workflow">In-shop workflow</string>
+    <string name="orders_preparation_note">Preparation Note</string><string name="orders_dev_controls">Developer controls (acts like the shop admin)</string><string name="orders_next_status">Next status</string><string name="orders_cancel_shop">Cancel as shop</string><string name="orders_scan_pickup">Scan to pick up</string>
+
+    <!-- Profile and permissions -->
+    <string name="profile_logout_title">Log out?</string><string name="profile_edit">Edit Profile</string><string name="profile_name">Your name</string><string name="permission_notifications_title">Turn on notifications</string>
+    <string name="notifications_title">Notifications</string><string name="notifications_mark_all_read">Mark all read</string>
+    <string name="nav_home">Home</string><string name="nav_orders">Orders</string><string name="nav_cart">Cart</string><string name="nav_profile">Profile</string>
+    <string name="payment_upi">UPI</string><string name="payment_upi_subtitle">Google Pay, PhonePe, Paytm</string><string name="payment_card">Credit / Debit Card</string><string name="payment_card_subtitle">Visa, Mastercard, RuPay</string>
+    <string name="common_coming_next">%1$s: coming next</string><string name="common_quoted">“%1$s”</string><string name="orders_phone">+91 %1$s</string><string name="orders_token_hash">#%1$02d</string>
+    <string name="splash_title">Chutur Paan</string><string name="orders_tab_count">%1$s (%2$d)</string>
+    <string name="common_separator"> • </string>
+
+    <!-- Information pages -->
+    <string name="info_help_title">Help &amp; Support</string><string name="info_terms_title">Terms of Service</string><string name="info_privacy_title">Privacy Policy</string>
+    <string name="info_alerts_heading">Order alerts are coming soon</string><string name="info_alerts_body">Once push notifications are added, you’ll get a message here the moment your order is ready for pickup. Until then, open the Orders tab or the active order card on Home to follow your order.</string>
+    <string name="info_pickup_heading">How does pickup work?</string><string name="info_pickup_body">Choose your paan, pay in the app and note your token number. We’ll show “Ready for pickup” when it’s done. Show your token at the counter to collect your order.</string>
+    <string name="info_delivery_heading">Is delivery available?</string><string name="info_delivery_body">No. This app is for shop pickup only.</string>
+    <string name="info_cancel_heading">Can I cancel or change an order?</string><string name="info_cancel_body">Each paan is made fresh after you order, so orders can’t be cancelled or changed in the app. If you need help, please speak to the counter team or call the shop.</string>
+    <string name="info_time_heading">How long will my order take?</string><string name="info_time_body">Each product page shows its approximate preparation time. You can follow your order live from the Orders tab.</string>
+    <string name="info_payment_heading">Something went wrong with my payment</string><string name="info_payment_body">If money was taken but you don’t see an order, please call the shop counter with your phone number so we can help.</string>
+    <string name="info_terms_heading">Terms of Service</string><string name="info_terms_body">Add your Terms of Service here before releasing the app.</string>
+    <string name="info_privacy_heading">Privacy Policy</string><string name="info_privacy_body">Add your Privacy Policy here before releasing the app. Describe what data you collect (mobile number, name, order history) and why.</string>
+    <!-- Accessibility -->
+    <string name="a11y_loading_notifications">Loading notifications</string><string name="a11y_loading_orders">Loading orders</string><string name="a11y_loading_menu">Loading menu</string><string name="a11y_loading_product">Loading product</string><string name="a11y_loading_order">Loading order</string>
+    <string name="a11y_decrease_quantity">Decrease quantity</string><string name="a11y_increase_quantity">Increase quantity</string>
+    <string name="checkout_empty_title">Nothing to pay for</string><string name="checkout_empty_body">Your tray is empty. Add a paan first.</string><string name="checkout_order_items">Order Items</string><string name="checkout_your_note">Your Note</string><string name="checkout_payment_method">Payment Method</string>
+    <!-- Pickup scanner -->
+    <string name="pickup_qr_unreadable">Couldn’t read that QR code. Please try again.</string><string name="pickup_scanner_unavailable">Couldn’t open the scanner. Check your internet and Google Play services, then try again.</string><string name="pickup_scanner_unsupported">Couldn’t open the scanner on this phone.</string>
+    <string name="pickup_wrong_qr">That is not a Safar Paan pickup QR.</string><string name="pickup_different_order">This QR is for a different order. Scan the QR for %1$s.</string><string name="pickup_success">Order picked up. Enjoy your paan!</string>
+    <string name="pickup_already_done">This order was already picked up.</string><string name="pickup_not_ready">This order is not ready for pickup yet.</string><string name="pickup_invalid_code">This QR code is not valid for your order.</string><string name="pickup_too_many_attempts">Too many attempts. Please ask the counter for help.</string>
+    <string name="orders_shop_phone_unavailable">Shop phone number is not available right now.</string><string name="orders_not_found">Order not found</string><string name="orders_not_found_body">We couldn’t find this order.</string><string name="orders_default_title">Order</string>
+    <!-- Home details -->
+    <string name="home_permission_body">We’ll tell you the moment your order is ready for pickup.</string><string name="home_notifications">Notifications</string><string name="home_notifications_unread">Notifications, %1$d unread</string>
+    <string name="home_ready_token">Ready for pickup • Token #%1$02d</string><string name="home_status_token">%1$s • Token #%2$02d</string><string name="home_order_total">%1$s • %2$s</string><string name="home_featured">Featured</string><string name="common_closed">Closed</string><string name="common_order">Order</string>
+    <string name="home_freshly_rolled">Freshly rolled at counter upon confirmation</string><string name="home_current_order">Current Order: %1$s</string><string name="home_closed_paused">Shop is closed • Ordering paused</string><string name="home_cart_ready">%1$s • Counter tray ready</string>
+    <string name="a11y_view_cart">View cart</string><string name="home_shop_open_a11y">Shop is open. %1$s</string><string name="home_shop_closed_a11y">Shop is closed. %1$s</string><string name="common_open">Open</string><string name="home_closed_body">You can look around, but ordering is paused until we open.</string><string name="common_try_again">Try again</string>
+    <string name="a11y_order_page">Order %1$d of %2$d</string><string name="a11y_featured_page">Featured %1$d of %2$d</string>
+    <!-- Order timeline -->
+    <string name="timeline_order_placed">Order Placed</string><string name="timeline_order_placed_note">Payment received, order sent to the counter</string><string name="timeline_preparing">Being Prepared</string><string name="timeline_preparing_note">Hand-rolled fresh at the counter</string><string name="timeline_ready">Ready for Pickup</string><string name="timeline_ready_note">Collect from the counter with your token</string><string name="timeline_completed">Completed</string><string name="timeline_completed_note">Token checked and order handed over</string>
+    <string name="timeline_done">Done</string><string name="timeline_ready_now">Ready now</string><string name="timeline_in_progress">In progress</string><string name="timeline_pending">Pending</string>
+    <!-- Profile -->
+    <string name="profile_active">Active</string><string name="profile_paans_ordered">Paans ordered</string><string name="profile_collected">Collected</string><string name="profile_my_orders">My Orders</string><string name="profile_orders_subtitle">View active pickup token &amp; past history</string><string name="profile_update_name">Update your name</string><string name="profile_notification_subtitle">Order ready &amp; pickup alerts</string><string name="profile_contact_shop">Contact Shop</string><string name="profile_help_support">Help &amp; Support</string><string name="profile_help_subtitle">Pickup guidelines and FAQs</string><string name="profile_terms">Terms</string><string name="profile_privacy">Privacy</string>
+
+    <!-- ===== Added: remaining UI strings ===== -->
+    <!-- Shared -->
+    <string name="common_shop_closed_now">Shop is closed right now</string>
+    <string name="common_go_back">Go back</string>
+    <string name="common_pair" translatable="false">%1$s • %2$s</string>
+    <string name="a11y_unread">Unread</string>
+    <string name="a11y_more_options">More options</string>
+    <string name="a11y_call_shop">Call the shop</string>
+    <string name="a11y_edit_profile">Edit profile</string>
+    <string name="a11y_order_placed">Order placed</string>
+    <string name="a11y_selected">Selected</string>
+    <string name="a11y_not_selected">Not selected</string>
+    <!-- Cards, splash, login, OTP -->
+    <string name="order_card_ready_token">Your order is ready for pickup. Token #%1$02d</string>
+    <string name="product_unavailable_short">Unavailable</string>
+    <string name="splash_credit" translatable="false">Made With Love by Santu ❤</string>
+    <string name="login_subtitle">Enter your mobile number to order and collect from the counter.</string>
+    <string name="login_send_otp">Send OTP</string>
+    <string name="login_terms_notice">By continuing you agree to our Terms of Service and Privacy Policy</string>
+    <string name="otp_enter_code">Enter the %1$d-digit code sent to</string>
+    <string name="otp_resend_in">Resend code in 00:%1$02d</string>
+    <string name="otp_verify_continue">Verify &amp; Continue</string>
+    <string name="otp_dev_hint" translatable="false">Dev mode: use %1$s</string>
+    <!-- Orders list and notifications -->
+    <string name="orders_tab_active">Active</string>
+    <string name="orders_tab_past">Past</string>
+    <string name="orders_load_error_title">Couldn’t load orders</string>
+    <string name="orders_empty_active_title">No active orders</string>
+    <string name="orders_empty_active_body">When you place an order, you can follow it here until it’s ready.</string>
+    <string name="orders_empty_active_action">Order paan</string>
+    <string name="orders_empty_past_title">No past orders yet</string>
+    <string name="orders_empty_past_body">Completed orders will show up here.</string>
+    <string name="notifications_load_error_title">Couldn’t load notifications</string>
+    <string name="notifications_empty_title">No notifications yet</string>
+    <string name="notifications_empty_body">When your order is being made, ready or completed, you’ll see it here.</string>
+    <!-- Cart and checkout -->
+    <string name="cart_quick_ice_pack">❄️ Ice pack box</string>
+    <string name="cart_quick_extra_crisp">🍃 Extra betel crisp</string>
+    <string name="cart_quick_less_gulkand">🍯 Less gulkand</string>
+    <string name="cart_empty_title">Your tray is empty</string>
+    <string name="cart_empty_body">Add a paan from the menu and it will show up here.</string>
+    <string name="cart_browse">Browse paan</string>
+    <string name="cart_crafted_items">Crafted Items (%1$s, %2$s)</string>
+    <string name="cart_handcrafted_note">Handcrafted upon order. Your pickup token is generated right after payment.</string>
+    <string name="cart_remove_item">Remove %1$s</string>
+    <string name="cart_price_each">%1$s each</string>
+    <string name="cart_note_counter" translatable="false">%1$d / %2$d</string>
+    <string name="cart_item_total">Item Total (%1$s)</string>
+    <string name="cart_proceed">Proceed to Checkout</string>
+    <string name="checkout_pickup_from">Pickup from %1$s. No delivery.</string>
+    <string name="checkout_no_note">No note added</string>
+    <string name="checkout_pay">Pay %1$s</string>
+    <string name="checkout_dont_close">Please don’t close the app.</string>
+    <string name="payment_preparing">Preparing secure payment…</string>
+    <string name="payment_in_browser">Complete your payment in the browser window.</string>
+    <string name="payment_check_status">I’ve paid, check status</string>
+    <string name="payment_reopen">Reopen payment page</string>
+    <string name="payment_confirming">Confirming your payment…</string>
+    <string name="payment_stop_waiting">Stop waiting</string>
+    <string name="payment_success">Payment successful</string>
+    <string name="payment_timeout_body">We haven’t received a confirmation yet. If money was deducted, your order will update automatically in a moment.</string>
+    <string name="payment_check_again">Check again</string>
+    <string name="payment_pay_again">Pay again</string>
+    <string name="payment_open_failed">We couldn’t open the payment page. Please try again.</string>
+    <!-- Home and product details -->
+    <string name="home_express_prompt">Express Ready • What would you like today?</string>
+    <string name="home_category_all">All</string>
+    <string name="home_no_results">No paan found. Try another search or category.</string>
+    <string name="product_pickup_shop">Pickup: %1$s</string>
+    <string name="product_sweetness_header">Sweetness &amp; Gulkand Blend</string>
+    <string name="product_choose_one">Choose one</string>
+    <string name="product_supari_header">Supari Type</string>
+    <string name="product_same_price">All options are included at the same price.</string>
+    <string name="product_handrolled_note">Each paan is hand-rolled right before your pickup to keep the leaf crisp.</string>
+    <string name="product_express_ready">Express Ready in few min</string>
+    <string name="product_quantity_total" translatable="false">%1$d × %2$s = %3$s</string>
+    <string name="product_add_to_order">Add to Order • %1$s</string>
+    <!-- Order status and confirmation -->
+    <string name="orders_show_token">Show your token at the counter to collect your paan.</string>
+    <string name="orders_track">Track Order</string>
+    <string name="orders_placed_at">Placed %1$s</string>
+    <string name="orders_payment_summary">%1$s %2$s via %3$s</string>
+    <string name="orders_payment_via">%1$s via %2$s</string>
+    <string name="orders_cancelled_notice">This order was cancelled by the shop, so preparation stopped.</string>
+    <string name="orders_pickup_note">Pickup note: your paan is handcrafted fresh once you order, so it can’t be changed after preparation starts. For any help, speak to the counter team.</string>
+    <string name="orders_dev_hint" translatable="false">Remove before release: set AppConfig.SHOW_DEV_CONTROLS = false.</string>
+    <string name="orders_scan_prompt">At the counter, ask the shop to show the pickup QR, then scan it here to collect your order.</string>
+    <string name="orders_scan_button">Scan pickup QR</string>
+    <string name="hero_pending_label">ORDER RECEIVED</string>
+    <string name="hero_pending_headline">We’ve got your order</string>
+    <string name="hero_pending_body">Waiting for the shop to start preparing it.</string>
+    <string name="hero_making_label">BEING PREPARED</string>
+    <string name="hero_making_headline">Your paan is being hand-rolled</string>
+    <string name="hero_making_body">Fresh from the counter. It won’t be long.</string>
+    <string name="hero_ready_label">READY FOR PICKUP</string>
+    <string name="hero_ready_headline">Your order is ready for pickup.</string>
+    <string name="hero_ready_body">Show your pickup token at the counter to collect your handcrafted order. Best enjoyed fresh, within 4 hours.</string>
+    <string name="hero_completed_label">COLLECTED</string>
+    <string name="hero_completed_headline">Thank you!</string>
+    <string name="hero_completed_body">This order has been handed over. Enjoy your paan.</string>
+    <string name="hero_cancelled_label">CANCELLED BY SHOP</string>
+    <string name="hero_cancelled_headline">This order was cancelled</string>
+    <string name="hero_cancelled_body">Please contact the shop counter about your order and payment.</string>
+    <string name="order_status_payment_failed">Order Failed</string>
+    <string name="hero_payment_failed_label">ORDER FAILED</string>
+    <string name="hero_payment_failed_headline">Payment didn’t go through</string>
+    <string name="hero_payment_failed_body">This order was not placed. If money was deducted, please call the shop counter with your phone number.</string>
+    <string name="orders_payment_failed_notice">This order was not placed because the payment failed, so nothing is being prepared.</string>
+    <!-- Profile -->
+    <string name="profile_new_badge">%1$s new</string>
+    <string name="profile_footer">%1$s • Express Pickup</string>
+    <string name="profile_footer_version">%1$s • Express Pickup • v%2$s</string>
+    <string name="profile_logout_body">Your cart will be cleared. You can log in again anytime with your mobile number.</string>
+    <string name="profile_mobile_locked">Mobile: %1$s (can’t be changed here)</string>
+    <!-- Errors written by the app (server messages are shown as received) -->
+    <string name="error_unexpected">The server sent an unexpected response. Please try again.</string>
+    <string name="error_offline">No internet connection. Please check your network and try again.</string>
+    <string name="error_session_expired">Your session has expired. Please log in again.</string>
+    <string name="error_too_many_attempts">Too many attempts. Please wait a moment and try again.</string>
+    <string name="error_server">Something went wrong on our side. Please try again.</string>
+    <string name="error_forbidden">You don’t have permission to do that.</string>
+    <string name="error_not_found">We couldn’t find that.</string>
+    <string name="error_tray_empty">Your tray is empty.</string>
+    <plurals name="cart_types"><item quantity="one">%1$d type</item><item quantity="other">%1$d types</item></plurals>
+    <plurals name="orders_collected"><item quantity="one">🍃 %1$d order collected</item><item quantity="other">🍃 %1$d orders collected</item></plurals>
+</resources>

@@ -1,0 +1,264 @@
+<resources>
+    <!-- Language -->
+    <string name="language_title">ଆପଣଙ୍କ ଭାଷା ବାଛନ୍ତୁ</string>
+    <string name="language_subtitle">ଆପଣ ଯେକୌଣସି ସମୟରେ ପ୍ରୋଫାଇଲରୁ ଏହାକୁ ବଦଳାଇ ପାରିବେ।</string>
+    <string name="language_english">English</string>
+    <string name="language_bengali">বাংলা</string>
+    <string name="language_odia">ଓଡ଼ିଆ</string>
+    <string name="profile_language">ଭାଷା</string>
+    <string name="profile_language_subtitle">ଇଂରାଜୀ, ବଙ୍ଗାଳୀ କିମ୍ବା ଓଡ଼ିଆ ବାଛନ୍ତୁ</string>
+    <!-- Registration -->
+    <string name="registration_title">ଆମେ ଆପଣଙ୍କୁ କଣ ଡାକିବୁ?</string>
+    <string name="registration_subtitle">ପଞ୍ଜୀକରଣ ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଆପଣଙ୍କ ନାମ ଯୋଡ଼ନ୍ତୁ।</string>
+    <string name="registration_name_label">ଆପଣଙ୍କ ନାମ</string>
+    <string name="registration_continue">ଜାରି ରଖନ୍ତୁ</string>
+    <!-- Common -->
+    <string name="common_cancel">ବାତିଲ୍ କରନ୍ତୁ</string>
+    <string name="common_ok">ଠିକ୍ ଅଛି</string>
+    <string name="common_retry">ପୁନଃ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="common_logout">ଲଗ୍ ଆଉଟ୍</string>
+    <string name="common_back">ପଛକୁ</string>
+    <string name="common_save">ସଂରକ୍ଷଣ କରନ୍ତୁ</string>
+    <string name="common_saving">ସଂରକ୍ଷଣ ହେଉଛି…</string>
+    <string name="common_delete">ବିଲୋପ କରନ୍ତୁ</string>
+    <string name="common_change">ବଦଳାନ୍ତୁ</string>
+    <string name="common_guest">ଅତିଥି</string>
+    <string name="common_something_went_wrong">କିଛି ଭୁଲ୍ ହୋଇଗଲା</string>
+
+    <!-- Statuses -->
+    <string name="order_status_received">ଅର୍ଡର ପ୍ରାପ୍ତ ହୋଇଛି</string>
+    <string name="order_status_preparing">ପ୍ରସ୍ତୁତ ହେଉଛି</string>
+    <string name="order_status_ready">ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ</string>
+    <string name="order_status_completed">ସମ୍ପୂର୍ଣ୍ଣ</string>
+    <string name="order_status_cancelled_by_shop">ଦୋକାନ ଦ୍ୱାରା ବାତିଲ୍</string>
+    <string name="payment_status_paid">ପରିଶୋଧିତ</string>
+    <string name="payment_status_pending">ପେମେଣ୍ଟ ବାକି ଅଛି</string>
+    <string name="payment_status_failed">ପେମେଣ୍ଟ ବିଫଳ ହେଲା</string>
+    <string name="payment_status_refunded">ଟଙ୍କା ଫେରସ୍ତ ହୋଇଛି</string>
+
+    <!-- Validation and errors -->
+    <string name="error_enter_mobile">ଦୟାକରି ଆପଣଙ୍କ ମୋବାଇଲ୍ ନମ୍ବର ଦିଅନ୍ତୁ</string>
+    <string name="error_invalid_mobile">ଏକ ବୈଧ 10-ଅଙ୍କ ବିଶିଷ୍ଟ ଭାରତୀୟ ମୋବାଇଲ୍ ନମ୍ବର ଦିଅନ୍ତୁ</string>
+    <string name="error_send_otp">OTP ପଠାଯାଇପାରିଲା ନାହିଁ</string>
+    <string name="error_invalid_otp">OTP ଭୁଲ୍ ଅଛି। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_name_short">ଅନ୍ତତଃ 2ଟି ଅକ୍ଷର ଦିଅନ୍ତୁ</string>
+    <string name="error_name_long">ନାମ ବହୁତ ଲମ୍ବା</string>
+    <string name="error_product_not_found">ଉତ୍ପାଦ ମିଳିଲା ନାହିଁ</string>
+    <string name="error_place_order">ଆମେ ଆପଣଙ୍କ ଅର୍ଡର ଦେଇପାରିଲୁ ନାହିଁ। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_payment_failed">ପେମେଣ୍ଟ ବିଫଳ ହେଲା। କୌଣସି ଟଙ୍କା କଟାଯାଇ ନାହିଁ। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_shop_closed">ଦୋକାନ ଏବେ ବନ୍ଦ ଅଛି। ଆପଣଙ୍କ ଟ୍ରେ ସଂରକ୍ଷିତ ଅଛି। ଆମେ ଖୋଲିଲେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+
+    <!-- Relative time -->
+    <string name="time_just_now">ଏବେ ହିଁ</string>
+    <string name="time_yesterday">ଗତକାଲି</string>
+    <plurals name="time_minutes_ago"><item quantity="one">%1$d ମିନିଟ୍ ପୂର୍ବେ</item><item quantity="other">%1$d ମିନିଟ୍ ପୂର୍ବେ</item></plurals>
+    <plurals name="time_hours_ago"><item quantity="one">%1$d ଘଣ୍ଟା ପୂର୍ବେ</item><item quantity="other">%1$d ଘଣ୍ଟା ପୂର୍ବେ</item></plurals>
+    <plurals name="items"><item quantity="one">%1$d ଟି ଆଇଟମ୍</item><item quantity="other">%1$d ଟି ଆଇଟମ୍</item></plurals>
+    <plurals name="paans"><item quantity="one">%1$d ପାନ</item><item quantity="other">%1$d ପାନ</item></plurals>
+    <plurals name="active_orders"><item quantity="one">%1$d ସକ୍ରିୟ</item><item quantity="other">%1$d ସକ୍ରିୟ</item></plurals>
+    <plurals name="new_notifications"><item quantity="one">%1$d ଟି ନୂଆ ବିଜ୍ଞପ୍ତି</item><item quantity="other">%1$d ଟି ନୂଆ ବିଜ୍ଞପ୍ତି</item></plurals>
+
+    <!-- Notifications -->
+    <string name="notification_channel_ready_name">ଅର୍ଡର ପ୍ରସ୍ତୁତ</string>
+    <string name="notification_channel_ready_description">ଆପଣଙ୍କ ଅର୍ଡର ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ ହେଲେ ଆପଣଙ୍କୁ ଜଣାଏ</string>
+    <string name="notification_channel_updates_name">ଅର୍ଡର ଅପଡେଟ୍</string>
+    <string name="notification_channel_updates_description">ଆପଣଙ୍କ ଅର୍ଡର ବିଷୟରେ ଅନ୍ୟ ଅପଡେଟ୍</string>
+    <string name="push_fallback_title">ଅର୍ଡର ଅପଡେଟ୍</string>
+
+    <!-- Product options -->
+    <string name="option_regular_sweet">ସାଧାରଣ ମିଠା</string>
+    <string name="option_mild_sweet">କମ୍ ମିଠା</string>
+    <string name="option_low_gulkand">କମ୍ ଗୁଲକନ୍ଦ</string>
+    <string name="option_extra_gulkand">ଅଧିକ ଗୁଲକନ୍ଦ</string>
+    <string name="option_fried_supari">ଭଜା ସୁପାରି</string>
+    <string name="option_kacha_supari">କଞ୍ଚା ସୁପାରି</string>
+    <string name="option_classic_recipe">କ୍ଲାସିକ୍ ରେସିପି</string>
+    <string name="option_crunchy_roasted">କରକରା, ଭଜା</string>
+    <string name="option_raw_traditional">କଞ୍ଚା, ପାରମ୍ପରିକ</string>
+    <string name="option_summary">%1$s • %2$s</string>
+
+    <!-- Shared UI -->
+    <string name="common_add">ଯୋଡ଼ନ୍ତୁ</string><string name="common_edit">ସମ୍ପାଦନ କରନ୍ତୁ</string><string name="common_allow">ଅନୁମତି ଦିଅନ୍ତୁ</string><string name="common_not_now">ଏବେ ନୁହେଁ</string><string name="common_total">ମୋଟ</string>
+    <string name="common_order_summary">ଅର୍ଡର ସାରାଂଶ</string><string name="common_quantity">ପରିମାଣ</string><string name="common_view_details">ବିବରଣୀ ଦେଖନ୍ତୁ</string><string name="common_back_to_home">ହୋମ୍‌କୁ ଫେରନ୍ତୁ</string>
+    <string name="a11y_back">ପଛକୁ</string><string name="a11y_delete">ବିଲୋପ କରନ୍ତୁ</string>
+
+    <!-- Login and OTP -->
+    <string name="login_mobile_number">ମୋବାଇଲ୍ ନମ୍ବର</string><string name="login_mobile_placeholder">10-ଅଙ୍କ ବିଶିଷ୍ଟ ମୋବାଇଲ୍ ନମ୍ବର ଦିଅନ୍ତୁ</string>
+    <string name="otp_verify_number">ନମ୍ବର ଯାଞ୍ଚ କରନ୍ତୁ</string><string name="otp_resend_sms">SMS ମାଧ୍ୟମରେ OTP ପୁଣି ପଠାନ୍ତୁ</string><string name="otp_phone">+91 %1$s</string>
+
+    <!-- Cart and checkout -->
+    <string name="cart_title">ଆପଣଙ୍କ ଅର୍ଡର ସାରାଂଶ</string><string name="cart_pickup_only">କେବଳ ଦୋକାନରୁ ପିକଅପ୍</string><string name="cart_add_more_types">ଆହୁରି ପାନ ପ୍ରକାର ଯୋଡ଼ନ୍ତୁ</string><string name="cart_express_pickup">ଏକ୍ସପ୍ରେସ୍ କାଉଣ୍ଟର୍ ପିକଅପ୍</string>
+    <string name="cart_note_title">ପାନ ମାଷ୍ଟରଙ୍କ ପାଇଁ ଏକ ନୋଟ୍ ଯୋଡ଼ନ୍ତୁ</string><string name="cart_optional">(ଇଚ୍ଛାଧୀନ)</string><string name="cart_note_placeholder">ଯଥା: ମିଠା ପାନରେ ମିଠା କମ୍ ରଖନ୍ତୁ</string>
+    <string name="cart_bill_details">ବିଲ୍ ବିବରଣୀ</string><string name="cart_total_amount">ମୋଟ ରାଶି</string><string name="cart_pickup_counter">କାଉଣ୍ଟରରୁ ପିକଅପ୍</string>
+    <string name="checkout_title">ଚେକ୍‌ଆଉଟ୍</string><string name="checkout_processing">ପେମେଣ୍ଟ ପ୍ରକ୍ରିୟାକରଣ ହେଉଛି…</string><string name="checkout_item_line">%1$d × %2$s</string>
+
+    <!-- Home and products -->
+    <string name="home_welcome">ସ୍ୱାଗତ 👋</string><string name="home_search_placeholder">ପାନ ଖୋଜନ୍ତୁ</string><string name="home_fresh_rolled">ତାଜା ବନ୍ଧା ସ୍ୱାଦିଷ୍ଟ ପାନ</string>
+    <string name="home_active_order">ସକ୍ରିୟ ଅର୍ଡର • %1$s</string><string name="home_track">ଟ୍ରାକ୍ କରନ୍ତୁ</string><string name="home_closed_now">ଆମେ ଏବେ ବନ୍ଦ ଅଛୁ</string><string name="home_usually_open">ସାଧାରଣତଃ ଖୋଲା ଥାଏ %1$s</string><string name="home_menu_load_error">ମେନୁ ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ</string>
+    <string name="product_per_piece">ପ୍ରତି ପିସ୍</string><string name="product_unavailable">ବର୍ତ୍ତମାନ ଉପଲବ୍ଧ ନାହିଁ</string><string name="product_experience">ଅନୁଭୂତି</string><string name="product_heritage">ଐତିହ୍ୟପୂର୍ଣ୍ଣ ଉପାଦାନ</string><string name="product_made_fresh">ଅର୍ଡର ପରେ ତାଜା ତିଆରି</string><string name="product_add_more">ଆହୁରି ଯୋଡ଼ନ୍ତୁ</string>
+
+    <!-- Orders -->
+    <string name="orders_title">ମୋ ଅର୍ଡର</string><string name="orders_placed">ଅର୍ଡର ଦିଆଗଲା!</string><string name="orders_pickup_token">ପିକଅପ୍ ଟୋକନ୍</string><string name="orders_your_note">ଆପଣଙ୍କ ନୋଟ୍</string><string name="orders_live_status">ଅର୍ଡରର ଲାଇଭ୍ ସ୍ଥିତି</string><string name="orders_call_shop">ଦୋକାନ କାଉଣ୍ଟରକୁ ଫୋନ୍ କରନ୍ତୁ</string>
+    <string name="orders_counter_pass">କାଉଣ୍ଟର କଲେକ୍ସନ୍ ପାସ୍</string><string name="orders_token">ଟୋକନ୍ #%1$02d</string><string name="orders_payment_status">ପେମେଣ୍ଟ ସ୍ଥିତି</string><string name="orders_preparation_journey">ପ୍ରସ୍ତୁତି ଯାତ୍ରା</string><string name="orders_workflow">ଦୋକାନ ଭିତରର କାର୍ଯ୍ୟପ୍ରବାହ</string>
+    <string name="orders_preparation_note">ପ୍ରସ୍ତୁତି ନୋଟ୍</string><string name="orders_dev_controls">ଡେଭଲପର୍ ନିୟନ୍ତ୍ରଣ (ଦୋକାନ ଆଡମିନ୍ ଭଳି କାମ କରେ)</string><string name="orders_next_status">ପରବର୍ତ୍ତୀ ସ୍ଥିତି</string><string name="orders_cancel_shop">ଦୋକାନ ଭାବେ ବାତିଲ୍ କରନ୍ତୁ</string><string name="orders_scan_pickup">ପିକଅପ୍ ପାଇଁ ସ୍କାନ୍ କରନ୍ତୁ</string>
+
+    <!-- Profile and permissions -->
+    <string name="profile_logout_title">ଲଗ୍ ଆଉଟ୍ କରିବେ?</string><string name="profile_edit">ପ୍ରୋଫାଇଲ୍ ସମ୍ପାଦନ କରନ୍ତୁ</string><string name="profile_name">ଆପଣଙ୍କ ନାମ</string><string name="permission_notifications_title">ବିଜ୍ଞପ୍ତି ଚାଲୁ କରନ୍ତୁ</string>
+    <string name="notifications_title">ବିଜ୍ଞପ୍ତି</string><string name="notifications_mark_all_read">ସବୁ ପଢ଼ା ହୋଇଛି ବୋଲି ଚିହ୍ନିତ କରନ୍ତୁ</string>
+    <string name="nav_home">ହୋମ୍</string><string name="nav_orders">ଅର୍ଡର</string><string name="nav_cart">କାର୍ଟ</string><string name="nav_profile">ପ୍ରୋଫାଇଲ୍</string>
+    <string name="payment_upi">UPI</string><string name="payment_upi_subtitle">Google Pay, PhonePe, Paytm</string><string name="payment_card">କ୍ରେଡିଟ୍ / ଡେବିଟ୍ କାର୍ଡ</string><string name="payment_card_subtitle">Visa, Mastercard, RuPay</string>
+    <string name="common_coming_next">%1$s: ଶୀଘ୍ର ଆସୁଛି</string><string name="common_quoted">“%1$s”</string><string name="orders_phone">+91 %1$s</string><string name="orders_token_hash">#%1$02d</string>
+    <string name="splash_title">Chutur Paan</string><string name="orders_tab_count">%1$s (%2$d)</string>
+    <string name="common_separator"> • </string>
+
+    <!-- Information pages -->
+    <string name="info_help_title">ସାହାଯ୍ୟ ଓ ସହାୟତା</string><string name="info_terms_title">ସେବା ନିୟମାବଳୀ</string><string name="info_privacy_title">ଗୋପନୀୟତା ନୀତି</string>
+    <string name="info_alerts_heading">ଅର୍ଡର ଆଲର୍ଟ ଶୀଘ୍ର ଆସୁଛି</string><string name="info_alerts_body">ପୁଶ୍ ବିଜ୍ଞପ୍ତି ଯୋଡ଼ାଗଲେ, ଆପଣଙ୍କ ଅର୍ଡର ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ ହେବା କ୍ଷଣି ଆପଣ ଏଠାରେ ଏକ ବାର୍ତ୍ତା ପାଇବେ। ସେପର୍ଯ୍ୟନ୍ତ, ଆପଣଙ୍କ ଅର୍ଡର ଅନୁସରଣ କରିବାକୁ ଅର୍ଡର ଟ୍ୟାବ୍ କିମ୍ବା ହୋମ୍‌ରେ ଥିବା ସକ୍ରିୟ ଅର୍ଡର କାର୍ଡ ଖୋଲନ୍ତୁ।</string>
+    <string name="info_pickup_heading">ପିକଅପ୍ କିପରି କାମ କରେ?</string><string name="info_pickup_body">ଆପଣଙ୍କ ପାନ ବାଛନ୍ତୁ, ଆପ୍‌ରେ ପେମେଣ୍ଟ କରନ୍ତୁ ଏବଂ ଆପଣଙ୍କ ଟୋକନ୍ ନମ୍ବର ମନେ ରଖନ୍ତୁ। ପାନ ପ୍ରସ୍ତୁତ ହେଲେ ଆମେ “ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ” ଦେଖାଇବୁ। ଆପଣଙ୍କ ଅର୍ଡର ନେବାକୁ କାଉଣ୍ଟରରେ ଆପଣଙ୍କ ଟୋକନ୍ ଦେଖାନ୍ତୁ।</string>
+    <string name="info_delivery_heading">ଡେଲିଭରି ଉପଲବ୍ଧ କି?</string><string name="info_delivery_body">ନାହିଁ। ଏହି ଆପ୍ କେବଳ ଦୋକାନରୁ ପିକଅପ୍ ପାଇଁ।</string>
+    <string name="info_cancel_heading">ମୁଁ ଅର୍ଡର ବାତିଲ୍ କିମ୍ବା ବଦଳାଇ ପାରିବି କି?</string><string name="info_cancel_body">ଆପଣ ଅର୍ଡର କଲା ପରେ ପ୍ରତ୍ୟେକ ପାନ ତାଜା ତିଆରି ହୁଏ, ତେଣୁ ଆପ୍‌ରେ ଅର୍ଡର ବାତିଲ୍ କିମ୍ବା ବଦଳାଯାଇପାରିବ ନାହିଁ। ସାହାଯ୍ୟ ଦରକାର ହେଲେ, ଦୟାକରି କାଉଣ୍ଟର ଟିମ୍‌ ସହ କଥା ହୁଅନ୍ତୁ କିମ୍ବା ଦୋକାନକୁ ଫୋନ୍ କରନ୍ତୁ।</string>
+    <string name="info_time_heading">ମୋ ଅର୍ଡର ପାଇଁ କେତେ ସମୟ ଲାଗିବ?</string><string name="info_time_body">ପ୍ରତ୍ୟେକ ଉତ୍ପାଦ ପୃଷ୍ଠାରେ ଏହାର ଆନୁମାନିକ ପ୍ରସ୍ତୁତି ସମୟ ଦେଖାଯାଏ। ଆପଣ ଅର୍ଡର ଟ୍ୟାବ୍‌ରୁ ଆପଣଙ୍କ ଅର୍ଡର ଲାଇଭ୍ ଅନୁସରଣ କରିପାରିବେ।</string>
+    <string name="info_payment_heading">ମୋ ପେମେଣ୍ଟରେ କିଛି ସମସ୍ୟା ହୋଇଛି</string><string name="info_payment_body">ଯଦି ଟଙ୍କା କଟିଯାଇଛି କିନ୍ତୁ ଆପଣ କୌଣସି ଅର୍ଡର ଦେଖୁନାହାନ୍ତି, ଦୟାକରି ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବର ସହ ଦୋକାନ କାଉଣ୍ଟରକୁ ଫୋନ୍ କରନ୍ତୁ, ଯେପରି ଆମେ ସାହାଯ୍ୟ କରିପାରିବୁ।</string>
+    <string name="info_terms_heading">ସେବା ନିୟମାବଳୀ</string><string name="info_terms_body">ଆପ୍ ପ୍ରକାଶ କରିବା ପୂର୍ବରୁ ଏଠାରେ ଆପଣଙ୍କ ସେବା ନିୟମାବଳୀ ଯୋଡ଼ନ୍ତୁ।</string>
+    <string name="info_privacy_heading">ଗୋପନୀୟତା ନୀତି</string><string name="info_privacy_body">ଆପ୍ ପ୍ରକାଶ କରିବା ପୂର୍ବରୁ ଏଠାରେ ଆପଣଙ୍କ ଗୋପନୀୟତା ନୀତି ଯୋଡ଼ନ୍ତୁ। ଆପଣ କେଉଁ ତଥ୍ୟ (ମୋବାଇଲ୍ ନମ୍ବର, ନାମ, ଅର୍ଡର ଇତିହାସ) ସଂଗ୍ରହ କରନ୍ତି ଏବଂ କାହିଁକି ତାହା ବର୍ଣ୍ଣନା କରନ୍ତୁ।</string>
+    <!-- Accessibility -->
+    <string name="a11y_loading_notifications">ବିଜ୍ଞପ୍ତି ଲୋଡ୍ ହେଉଛି</string><string name="a11y_loading_orders">ଅର୍ଡର ଲୋଡ୍ ହେଉଛି</string><string name="a11y_loading_menu">ମେନୁ ଲୋଡ୍ ହେଉଛି</string><string name="a11y_loading_product">ଉତ୍ପାଦ ଲୋଡ୍ ହେଉଛି</string><string name="a11y_loading_order">ଅର୍ଡର ଲୋଡ୍ ହେଉଛି</string>
+    <string name="a11y_decrease_quantity">ପରିମାଣ କମାନ୍ତୁ</string><string name="a11y_increase_quantity">ପରିମାଣ ବଢ଼ାନ୍ତୁ</string>
+    <string name="checkout_empty_title">ପେମେଣ୍ଟ କରିବାକୁ କିଛି ନାହିଁ</string><string name="checkout_empty_body">ଆପଣଙ୍କ ଟ୍ରେ ଖାଲି ଅଛି। ପ୍ରଥମେ ଏକ ପାନ ଯୋଡ଼ନ୍ତୁ।</string><string name="checkout_order_items">ଅର୍ଡର ଆଇଟମ୍</string><string name="checkout_your_note">ଆପଣଙ୍କ ନୋଟ୍</string><string name="checkout_payment_method">ପେମେଣ୍ଟ ପଦ୍ଧତି</string>
+    <!-- Pickup scanner -->
+    <string name="pickup_qr_unreadable">ସେହି QR କୋଡ୍ ପଢ଼ାଯାଇପାରିଲା ନାହିଁ। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string><string name="pickup_scanner_unavailable">ସ୍କାନର୍ ଖୋଲାଯାଇପାରିଲା ନାହିଁ। ଆପଣଙ୍କ ଇଣ୍ଟରନେଟ୍ ଏବଂ Google Play ସେବା ଯାଞ୍ଚ କରନ୍ତୁ, ତାପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string><string name="pickup_scanner_unsupported">ଏହି ଫୋନ୍‌ରେ ସ୍କାନର୍ ଖୋଲାଯାଇପାରିଲା ନାହିଁ।</string>
+    <string name="pickup_wrong_qr">ଏହା Safar Paan ର ପିକଅପ୍ QR ନୁହେଁ।</string><string name="pickup_different_order">ଏହି QR ଅନ୍ୟ ଏକ ଅର୍ଡର ପାଇଁ। %1$s ପାଇଁ QR ସ୍କାନ୍ କରନ୍ତୁ।</string><string name="pickup_success">ଅର୍ଡର ନିଆଯାଇଛି। ଆପଣଙ୍କ ପାନ ଉପଭୋଗ କରନ୍ତୁ!</string>
+    <string name="pickup_already_done">ଏହି ଅର୍ଡର ପୂର୍ବରୁ ନିଆଯାଇସାରିଛି।</string><string name="pickup_not_ready">ଏହି ଅର୍ଡର ଏପର୍ଯ୍ୟନ୍ତ ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ ନୁହେଁ।</string><string name="pickup_invalid_code">ଏହି QR କୋଡ୍ ଆପଣଙ୍କ ଅର୍ଡର ପାଇଁ ବୈଧ ନୁହେଁ।</string><string name="pickup_too_many_attempts">ବହୁତ ଥର ଚେଷ୍ଟା ହୋଇଛି। ଦୟାକରି କାଉଣ୍ଟରରୁ ସାହାଯ୍ୟ ମାଗନ୍ତୁ।</string>
+    <string name="orders_shop_phone_unavailable">ଦୋକାନର ଫୋନ୍ ନମ୍ବର ଏବେ ଉପଲବ୍ଧ ନାହିଁ।</string><string name="orders_not_found">ଅର୍ଡର ମିଳିଲା ନାହିଁ</string><string name="orders_not_found_body">ଆମେ ଏହି ଅର୍ଡର ଖୋଜିପାରିଲୁ ନାହିଁ।</string><string name="orders_default_title">ଅର୍ଡର</string>
+    <!-- Home details -->
+    <string name="home_permission_body">ଆପଣଙ୍କ ଅର୍ଡର ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ ହେବା କ୍ଷଣି ଆମେ ଆପଣଙ୍କୁ ଜଣାଇବୁ।</string><string name="home_notifications">ବିଜ୍ଞପ୍ତି</string><string name="home_notifications_unread">ବିଜ୍ଞପ୍ତି, %1$d ଟି ନ ପଢ଼ା</string>
+    <string name="home_ready_token">ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ • ଟୋକନ୍ #%1$02d</string><string name="home_status_token">%1$s • ଟୋକନ୍ #%2$02d</string><string name="home_order_total">%1$s • %2$s</string><string name="home_featured">ବିଶେଷ</string><string name="common_closed">ବନ୍ଦ</string><string name="common_order">ଅର୍ଡର</string>
+    <string name="home_freshly_rolled">ନିଶ୍ଚିତ ହେବା ପରେ କାଉଣ୍ଟରରେ ତାଜା ବନ୍ଧାଯାଏ</string><string name="home_current_order">ବର୍ତ୍ତମାନର ଅର୍ଡର: %1$s</string><string name="home_closed_paused">ଦୋକାନ ବନ୍ଦ ଅଛି • ଅର୍ଡର ବନ୍ଦ</string><string name="home_cart_ready">%1$s • କାଉଣ୍ଟର ଟ୍ରେ ପ୍ରସ୍ତୁତ</string>
+    <string name="a11y_view_cart">କାର୍ଟ ଦେଖନ୍ତୁ</string><string name="home_shop_open_a11y">ଦୋକାନ ଖୋଲା ଅଛି। %1$s</string><string name="home_shop_closed_a11y">ଦୋକାନ ବନ୍ଦ ଅଛି। %1$s</string><string name="common_open">ଖୋଲା</string><string name="home_closed_body">ଆପଣ ଚାରିଆଡ଼େ ଦେଖିପାରିବେ, କିନ୍ତୁ ଆମେ ନ ଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ଅର୍ଡର ବନ୍ଦ ଅଛି।</string><string name="common_try_again">ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="a11y_order_page">ଅର୍ଡର %1$d / %2$d</string><string name="a11y_featured_page">ବିଶେଷ %1$d / %2$d</string>
+    <!-- Order timeline -->
+    <string name="timeline_order_placed">ଅର୍ଡର ଦିଆଗଲା</string><string name="timeline_order_placed_note">ପେମେଣ୍ଟ ମିଳିଛି, ଅର୍ଡର କାଉଣ୍ଟରକୁ ପଠାଯାଇଛି</string><string name="timeline_preparing">ପ୍ରସ୍ତୁତ ହେଉଛି</string><string name="timeline_preparing_note">କାଉଣ୍ଟରରେ ହାତରେ ତାଜା ବନ୍ଧାଯାଉଛି</string><string name="timeline_ready">ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ</string><string name="timeline_ready_note">ଆପଣଙ୍କ ଟୋକନ୍ ସହ କାଉଣ୍ଟରରୁ ନିଅନ୍ତୁ</string><string name="timeline_completed">ସମ୍ପୂର୍ଣ୍ଣ</string><string name="timeline_completed_note">ଟୋକନ୍ ଯାଞ୍ଚ ହୋଇ ଅର୍ଡର ହସ୍ତାନ୍ତର ହୋଇଛି</string>
+    <string name="timeline_done">ସମାପ୍ତ</string><string name="timeline_ready_now">ଏବେ ପ୍ରସ୍ତୁତ</string><string name="timeline_in_progress">ଚାଲିଛି</string><string name="timeline_pending">ବାକି ଅଛି</string>
+    <!-- Profile -->
+    <string name="profile_active">ସକ୍ରିୟ</string><string name="profile_paans_ordered">ଅର୍ଡର ହୋଇଥିବା ପାନ</string><string name="profile_collected">ନିଆଯାଇଛି</string><string name="profile_my_orders">ମୋ ଅର୍ଡର</string><string name="profile_orders_subtitle">ସକ୍ରିୟ ପିକଅପ୍ ଟୋକନ୍ ଓ ପୂର୍ବ ଇତିହାସ ଦେଖନ୍ତୁ</string><string name="profile_update_name">ଆପଣଙ୍କ ନାମ ଅପଡେଟ୍ କରନ୍ତୁ</string><string name="profile_notification_subtitle">ଅର୍ଡର ପ୍ରସ୍ତୁତ ଓ ପିକଅପ୍ ଆଲର୍ଟ</string><string name="profile_contact_shop">ଦୋକାନ ସହ ଯୋଗାଯୋଗ</string><string name="profile_help_support">ସାହାଯ୍ୟ ଓ ସହାୟତା</string><string name="profile_help_subtitle">ପିକଅପ୍ ନିର୍ଦ୍ଦେଶାବଳୀ ଓ ପ୍ରଶ୍ନୋତ୍ତର</string><string name="profile_terms">ନିୟମାବଳୀ</string><string name="profile_privacy">ଗୋପନୀୟତା</string>
+
+    <!-- ===== Added: remaining UI strings ===== -->
+    <!-- Shared -->
+    <string name="common_shop_closed_now">ଦୋକାନ ଏବେ ବନ୍ଦ ଅଛି</string>
+    <string name="common_go_back">ପଛକୁ ଯାଆନ୍ତୁ</string>
+    <string name="a11y_unread">ନ ପଢ଼ା</string>
+    <string name="a11y_more_options">ଅଧିକ ବିକଳ୍ପ</string>
+    <string name="a11y_call_shop">ଦୋକାନକୁ ଫୋନ୍ କରନ୍ତୁ</string>
+    <string name="a11y_edit_profile">ପ୍ରୋଫାଇଲ୍ ସମ୍ପାଦନ କରନ୍ତୁ</string>
+    <string name="a11y_order_placed">ଅର୍ଡର ଦିଆଯାଇଛି</string>
+    <string name="a11y_selected">ବଛାଯାଇଛି</string>
+    <string name="a11y_not_selected">ବଛାଯାଇ ନାହିଁ</string>
+    <!-- Cards, splash, login, OTP -->
+    <string name="order_card_ready_token">ଆପଣଙ୍କ ଅର୍ଡର ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ। ଟୋକନ୍ #%1$02d</string>
+    <string name="product_unavailable_short">ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="login_subtitle">ଅର୍ଡର କରିବାକୁ ଏବଂ କାଉଣ୍ଟରରୁ ନେବାକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍ ନମ୍ବର ଦିଅନ୍ତୁ।</string>
+    <string name="login_send_otp">OTP ପଠାନ୍ତୁ</string>
+    <string name="login_terms_notice">ଜାରି ରଖିଲେ ଆପଣ ଆମର ସେବା ନିୟମାବଳୀ ଓ ଗୋପନୀୟତା ନୀତିକୁ ସହମତ ହେଉଛନ୍ତି</string>
+    <string name="otp_enter_code">ଏହି ନମ୍ବରକୁ ପଠାଯାଇଥିବା %1$d-ଅଙ୍କ ବିଶିଷ୍ଟ କୋଡ୍ ଦିଅନ୍ତୁ</string>
+    <string name="otp_resend_in">00:%1$02d ପରେ କୋଡ୍ ପୁଣି ପଠାନ୍ତୁ</string>
+    <string name="otp_verify_continue">ଯାଞ୍ଚ କରି ଜାରି ରଖନ୍ତୁ</string>
+    <!-- Orders list and notifications -->
+    <string name="orders_tab_active">ସକ୍ରିୟ</string>
+    <string name="orders_tab_past">ପୂର୍ବ</string>
+    <string name="orders_load_error_title">ଅର୍ଡର ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ</string>
+    <string name="orders_empty_active_title">କୌଣସି ସକ୍ରିୟ ଅର୍ଡର ନାହିଁ</string>
+    <string name="orders_empty_active_body">ଅର୍ଡର ଦେଲେ, ପ୍ରସ୍ତୁତ ନହେବା ପର୍ଯ୍ୟନ୍ତ ଏଠାରେ ଏହାକୁ ଅନୁସରଣ କରିପାରିବେ।</string>
+    <string name="orders_empty_active_action">ପାନ ଅର୍ଡର କରନ୍ତୁ</string>
+    <string name="orders_empty_past_title">ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ପୂର୍ବ ଅର୍ଡର ନାହିଁ</string>
+    <string name="orders_empty_past_body">ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିବା ଅର୍ଡର ଏଠାରେ ଦେଖାଯିବ।</string>
+    <string name="notifications_load_error_title">ବିଜ୍ଞପ୍ତି ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ</string>
+    <string name="notifications_empty_title">ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ବିଜ୍ଞପ୍ତି ନାହିଁ</string>
+    <string name="notifications_empty_body">ଆପଣଙ୍କ ଅର୍ଡର ତିଆରି ହେଉଥିଲେ, ପ୍ରସ୍ତୁତ ହେଲେ କିମ୍ବା ସମ୍ପୂର୍ଣ୍ଣ ହେଲେ ଏଠାରେ ଦେଖିବେ।</string>
+    <!-- Cart and checkout -->
+    <string name="cart_quick_ice_pack">❄️ ଆଇସ୍ ପ୍ୟାକ୍ ବକ୍ସ</string>
+    <string name="cart_quick_extra_crisp">🍃 ଅଧିକ କରକରା ପାନ ପତ୍ର</string>
+    <string name="cart_quick_less_gulkand">🍯 କମ୍ ଗୁଲକନ୍ଦ</string>
+    <string name="cart_empty_title">ଆପଣଙ୍କ ଟ୍ରେ ଖାଲି ଅଛି</string>
+    <string name="cart_empty_body">ମେନୁରୁ ପାନ ଯୋଡ଼ନ୍ତୁ, ଏଠାରେ ଦେଖାଯିବ।</string>
+    <string name="cart_browse">ପାନ ଦେଖନ୍ତୁ</string>
+    <string name="cart_crafted_items">ତିଆରି ଆଇଟମ୍ (%1$s, %2$s)</string>
+    <string name="cart_handcrafted_note">ଅର୍ଡର ପରେ ହାତରେ ତିଆରି ହୁଏ। ପେମେଣ୍ଟ ପରେ ତୁରନ୍ତ ଆପଣଙ୍କ ପିକଅପ୍ ଟୋକନ୍ ତିଆରି ହେବ।</string>
+    <string name="cart_remove_item">%1$s କାଢ଼ିଦିଅନ୍ତୁ</string>
+    <string name="cart_price_each">ପ୍ରତ୍ୟେକ %1$s</string>
+    <string name="cart_item_total">ଆଇଟମ୍ ମୋଟ (%1$s)</string>
+    <string name="cart_proceed">ଚେକ୍‌ଆଉଟ୍‌କୁ ଯାଆନ୍ତୁ</string>
+    <string name="checkout_pickup_from">%1$s ରୁ ପିକଅପ୍। କୌଣସି ଡେଲିଭରି ନାହିଁ।</string>
+    <string name="checkout_no_note">କୌଣସି ନୋଟ୍ ଯୋଡ଼ାଯାଇ ନାହିଁ</string>
+    <string name="checkout_pay">%1$s ପରିଶୋଧ କରନ୍ତୁ</string>
+    <string name="checkout_dont_close">ଦୟାକରି ଆପ୍ ବନ୍ଦ କରନ୍ତୁ ନାହିଁ।</string>
+    <string name="payment_preparing">ସୁରକ୍ଷିତ ପେମେଣ୍ଟ ପ୍ରସ୍ତୁତ ହେଉଛି…</string>
+    <string name="payment_in_browser">ବ୍ରାଉଜର୍ ୱିଣ୍ଡୋରେ ଆପଣଙ୍କ ପେମେଣ୍ଟ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ।</string>
+    <string name="payment_check_status">ମୁଁ ପେମେଣ୍ଟ କରିଛି, ସ୍ଥିତି ଦେଖନ୍ତୁ</string>
+    <string name="payment_reopen">ପେମେଣ୍ଟ ପୃଷ୍ଠା ପୁଣି ଖୋଲନ୍ତୁ</string>
+    <string name="payment_confirming">ଆପଣଙ୍କ ପେମେଣ୍ଟ ନିଶ୍ଚିତ କରାଯାଉଛି…</string>
+    <string name="payment_stop_waiting">ଅପେକ୍ଷା ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="payment_success">ପେମେଣ୍ଟ ସଫଳ ହେଲା</string>
+    <string name="payment_timeout_body">ଆମେ ଏପର୍ଯ୍ୟନ୍ତ ନିଶ୍ଚିତକରଣ ପାଇ ନାହୁଁ। ଯଦି ଟଙ୍କା କଟିଯାଇଛି, ତେବେ କିଛି ସମୟ ମଧ୍ୟରେ ଆପଣଙ୍କ ଅର୍ଡର ନିଜେ ନିଜେ ଅପଡେଟ୍ ହୋଇଯିବ।</string>
+    <string name="payment_check_again">ପୁଣି ଦେଖନ୍ତୁ</string>
+    <string name="payment_pay_again">ପୁଣି ପେମେଣ୍ଟ କରନ୍ତୁ</string>
+    <string name="payment_open_failed">ଆମେ ପେମେଣ୍ଟ ପୃଷ୍ଠା ଖୋଲିପାରିଲୁ ନାହିଁ। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <!-- Home and product details -->
+    <string name="home_express_prompt">ଏକ୍ସପ୍ରେସ୍ ରେଡି • ଆଜି କ’ଣ ଖାଇବେ?</string>
+    <string name="home_category_all">ସବୁ</string>
+    <string name="home_no_results">କୌଣସି ପାନ ମିଳିଲା ନାହିଁ। ଅନ୍ୟ କିଛି ଖୋଜନ୍ତୁ କିମ୍ବା ଅନ୍ୟ ବର୍ଗ ଦେଖନ୍ତୁ।</string>
+    <string name="product_pickup_shop">ପିକଅପ୍: %1$s</string>
+    <string name="product_sweetness_header">ମିଠା ଓ ଗୁଲକନ୍ଦ ମିଶ୍ରଣ</string>
+    <string name="product_choose_one">ଗୋଟିଏ ବାଛନ୍ତୁ</string>
+    <string name="product_supari_header">ସୁପାରି ପ୍ରକାର</string>
+    <string name="product_same_price">ସବୁ ବିକଳ୍ପର ଦାମ୍ ସମାନ।</string>
+    <string name="product_handrolled_note">ପତ୍ର କରକରା ରଖିବାକୁ ପିକଅପ୍ ପୂର୍ବରୁ ପ୍ରତ୍ୟେକ ପାନ ହାତରେ ବନ୍ଧାଯାଏ।</string>
+    <string name="product_express_ready">କିଛି ମିନିଟ୍‌ରେ ଏକ୍ସପ୍ରେସ୍ ରେଡି</string>
+    <string name="product_add_to_order">ଅର୍ଡରରେ ଯୋଡ଼ନ୍ତୁ • %1$s</string>
+    <!-- Order status and confirmation -->
+    <string name="orders_show_token">ଆପଣଙ୍କ ପାନ ନେବାକୁ କାଉଣ୍ଟରରେ ଟୋକନ୍ ଦେଖାନ୍ତୁ।</string>
+    <string name="orders_track">ଅର୍ଡର ଟ୍ରାକ୍ କରନ୍ତୁ</string>
+    <string name="orders_placed_at">ଅର୍ଡର ଦିଆଗଲା %1$s</string>
+    <string name="orders_payment_summary">%1$s %2$s, %3$s ମାଧ୍ୟମରେ</string>
+    <string name="orders_payment_via">%1$s, %2$s ମାଧ୍ୟମରେ</string>
+    <string name="orders_cancelled_notice">ଦୋକାନ ଏହି ଅର୍ଡର ବାତିଲ୍ କରିଛି, ତେଣୁ ପ୍ରସ୍ତୁତି ବନ୍ଦ ହୋଇଯାଇଛି।</string>
+    <string name="orders_pickup_note">ପିକଅପ୍ ନୋଟ୍: ଅର୍ଡର ପରେ ଆପଣଙ୍କ ପାନ ତାଜା ହାତରେ ତିଆରି ହୁଏ, ତେଣୁ ପ୍ରସ୍ତୁତି ଆରମ୍ଭ ହେଲା ପରେ ଏହାକୁ ବଦଳାଯାଇପାରିବ ନାହିଁ। ସାହାଯ୍ୟ ପାଇଁ କାଉଣ୍ଟର ଟିମ୍‌ ସହ କଥା ହୁଅନ୍ତୁ।</string>
+    <string name="orders_scan_prompt">କାଉଣ୍ଟରରେ ଦୋକାନକୁ ପିକଅପ୍ QR ଦେଖାଇବାକୁ କୁହନ୍ତୁ, ତା’ପରେ ଏଠାରେ ସ୍କାନ୍ କରି ଆପଣଙ୍କ ଅର୍ଡର ନିଅନ୍ତୁ।</string>
+    <string name="orders_scan_button">ପିକଅପ୍ QR ସ୍କାନ୍ କରନ୍ତୁ</string>
+    <string name="hero_pending_label">ଅର୍ଡର ମିଳିଛି</string>
+    <string name="hero_pending_headline">ଆମେ ଆପଣଙ୍କ ଅର୍ଡର ପାଇଛୁ</string>
+    <string name="hero_pending_body">ଦୋକାନ ପ୍ରସ୍ତୁତି ଆରମ୍ଭ କରିବାକୁ ଅପେକ୍ଷା।</string>
+    <string name="hero_making_label">ପ୍ରସ୍ତୁତ ହେଉଛି</string>
+    <string name="hero_making_headline">ଆପଣଙ୍କ ପାନ ହାତରେ ବନ୍ଧାଯାଉଛି</string>
+    <string name="hero_making_body">କାଉଣ୍ଟରରୁ ଏକଦମ୍ ତାଜା। ବେଶି ସମୟ ଲାଗିବ ନାହିଁ।</string>
+    <string name="hero_ready_label">ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ</string>
+    <string name="hero_ready_headline">ଆପଣଙ୍କ ଅର୍ଡର ପିକଅପ୍ ପାଇଁ ପ୍ରସ୍ତୁତ।</string>
+    <string name="hero_ready_body">ଆପଣଙ୍କ ହାତତିଆରି ଅର୍ଡର ନେବାକୁ କାଉଣ୍ଟରରେ ପିକଅପ୍ ଟୋକନ୍ ଦେଖାନ୍ତୁ। ତାଜା ଥିବା ବେଳେ, 4 ଘଣ୍ଟା ଭିତରେ ଖାଇଲେ ସବୁଠାରୁ ଭଲ।</string>
+    <string name="hero_completed_label">ନିଆଯାଇଛି</string>
+    <string name="hero_completed_headline">ଧନ୍ୟବାଦ!</string>
+    <string name="hero_completed_body">ଏହି ଅର୍ଡର ଆପଣଙ୍କୁ ହସ୍ତାନ୍ତର କରାଯାଇଛି। ଆପଣଙ୍କ ପାନ ଉପଭୋଗ କରନ୍ତୁ।</string>
+    <string name="hero_cancelled_label">ଦୋକାନ ଦ୍ୱାରା ବାତିଲ୍</string>
+    <string name="hero_cancelled_headline">ଏହି ଅର୍ଡର ବାତିଲ୍ ହୋଇଛି</string>
+    <string name="hero_cancelled_body">ଆପଣଙ୍କ ଅର୍ଡର ଓ ପେମେଣ୍ଟ ବିଷୟରେ ଦୋକାନ କାଉଣ୍ଟରକୁ ଯୋଗାଯୋଗ କରନ୍ତୁ।</string>
+    <string name="order_status_payment_failed">ଅର୍ଡର ବିଫଳ</string>
+    <string name="hero_payment_failed_label">ଅର୍ଡର ବିଫଳ</string>
+    <string name="hero_payment_failed_headline">ପେମେଣ୍ଟ ସଫଳ ହେଲା ନାହିଁ</string>
+    <string name="hero_payment_failed_body">ଏହି ଅର୍ଡର ଦିଆଯାଇ ନାହିଁ। ଟଙ୍କା କଟିଯାଇଥିଲେ ଦୟାକରି ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବର ସହ ଦୋକାନ କାଉଣ୍ଟରକୁ ଫୋନ୍ କରନ୍ତୁ।</string>
+    <string name="orders_payment_failed_notice">ପେମେଣ୍ଟ ବିଫଳ ହେବା ଯୋଗୁଁ ଏହି ଅର୍ଡର ଦିଆଯାଇ ନାହିଁ, ତେଣୁ କିଛି ପ୍ରସ୍ତୁତ ହେଉନାହିଁ।</string>
+    <!-- Profile -->
+    <string name="profile_new_badge">%1$s ନୂଆ</string>
+    <string name="profile_footer">%1$s • ଏକ୍ସପ୍ରେସ୍ ପିକଅପ୍</string>
+    <string name="profile_footer_version">%1$s • ଏକ୍ସପ୍ରେସ୍ ପିକଅପ୍ • v%2$s</string>
+    <string name="profile_logout_body">ଆପଣଙ୍କ କାର୍ଟ ଖାଲି କରିଦିଆଯିବ। ଆପଣ ଯେକୌଣସି ସମୟରେ ମୋବାଇଲ୍ ନମ୍ବର ଦ୍ୱାରା ପୁଣି ଲଗ୍ ଇନ୍ କରିପାରିବେ।</string>
+    <string name="profile_mobile_locked">ମୋବାଇଲ୍: %1$s (ଏଠାରେ ବଦଳାଯାଇପାରିବ ନାହିଁ)</string>
+    <!-- Errors written by the app (server messages are shown as received) -->
+    <string name="error_unexpected">ସର୍ଭରରୁ ଅପ୍ରତ୍ୟାଶିତ ଉତ୍ତର ଆସିଛି। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_offline">ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ନାହିଁ। ଦୟାକରି ଆପଣଙ୍କ ନେଟୱାର୍କ ଯାଞ୍ଚ କରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_session_expired">ଆପଣଙ୍କ ସେସନ୍ ସମାପ୍ତ ହୋଇଯାଇଛି। ଦୟାକରି ପୁଣି ଲଗ୍ ଇନ୍ କରନ୍ତୁ।</string>
+    <string name="error_too_many_attempts">ବହୁତ ଥର ଚେଷ୍ଟା ହୋଇଛି। ଦୟାକରି କିଛି ସମୟ ଅପେକ୍ଷା କରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_server">ଆମ ପକ୍ଷରୁ କିଛି ଭୁଲ୍ ହୋଇଗଲା। ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="error_forbidden">ଏହା କରିବାର ଅନୁମତି ଆପଣଙ୍କ ନାହିଁ।</string>
+    <string name="error_not_found">ଆମେ ତାହା ଖୋଜିପାରିଲୁ ନାହିଁ।</string>
+    <string name="error_tray_empty">ଆପଣଙ୍କ ଟ୍ରେ ଖାଲି ଅଛି।</string>
+    <plurals name="cart_types"><item quantity="one">%1$d ଟି ପ୍ରକାର</item><item quantity="other">%1$d ଟି ପ୍ରକାର</item></plurals>
+    <plurals name="orders_collected"><item quantity="one">🍃 %1$d ଟି ଅର୍ଡର ନିଆଯାଇଛି</item><item quantity="other">🍃 %1$d ଟି ଅର୍ଡର ନିଆଯାଇଛି</item></plurals>
+</resources>
